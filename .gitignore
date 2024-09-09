@@ -1,0 +1,4 @@
+# Ignore Python virtual environments
+movie_senti/Lib/
+movie_senti/Scripts/
+movie_senti/include/
